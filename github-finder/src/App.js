@@ -7,7 +7,7 @@ function App() {
     <Router>
       <div className='flex flex-col justify-between h-screen'>
         <Navbar />
-        <mian className='container mx-auto px-3 pb-12'>Content</mian>
+        <main className='container mx-auto px-3 pb-12'>Content</main>
         <Footer />
       </div>
     </Router>
